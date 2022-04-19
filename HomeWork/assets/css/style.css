@@ -1,0 +1,16 @@
+#nav-section {
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    padding: 12px 0;
+}
+#phoneX{
+    padding: 5rem 0;
+}
+.phone{
+    font-size: 350px;
+}
+.icon-color{
+    color: rgb(73,47,236);
+    font-size: 4rem;
+/* color: linear-gradient(180deg, rgba(73,47,236,1) 0%, rgba(135,32,229,1) 100%); */
+}
+
